@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b75ac229.chunk.css",
-    "main.js": "/static/js/main.774d58ed.chunk.js",
-    "main.js.map": "/static/js/main.774d58ed.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a9b970b3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a9b970b3.js.map",
-    "static/js/2.55707d46.chunk.js": "/static/js/2.55707d46.chunk.js",
-    "static/js/2.55707d46.chunk.js.map": "/static/js/2.55707d46.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b75ac229.chunk.css.map": "/static/css/main.b75ac229.chunk.css.map",
-    "static/js/2.55707d46.chunk.js.LICENSE.txt": "/static/js/2.55707d46.chunk.js.LICENSE.txt",
-    "static/media/resume.eedd2e22.pdf": "/static/media/resume.eedd2e22.pdf"
+    "main.css": "/yixtian.com/static/css/main.b75ac229.chunk.css",
+    "main.js": "/yixtian.com/static/js/main.774d58ed.chunk.js",
+    "main.js.map": "/yixtian.com/static/js/main.774d58ed.chunk.js.map",
+    "runtime-main.js": "/yixtian.com/static/js/runtime-main.1df085b1.js",
+    "runtime-main.js.map": "/yixtian.com/static/js/runtime-main.1df085b1.js.map",
+    "static/js/2.55707d46.chunk.js": "/yixtian.com/static/js/2.55707d46.chunk.js",
+    "static/js/2.55707d46.chunk.js.map": "/yixtian.com/static/js/2.55707d46.chunk.js.map",
+    "index.html": "/yixtian.com/index.html",
+    "static/css/main.b75ac229.chunk.css.map": "/yixtian.com/static/css/main.b75ac229.chunk.css.map",
+    "static/js/2.55707d46.chunk.js.LICENSE.txt": "/yixtian.com/static/js/2.55707d46.chunk.js.LICENSE.txt",
+    "static/media/resume.eedd2e22.pdf": "/yixtian.com/static/media/resume.eedd2e22.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9b970b3.js",
+    "static/js/runtime-main.1df085b1.js",
     "static/js/2.55707d46.chunk.js",
     "static/css/main.b75ac229.chunk.css",
     "static/js/main.774d58ed.chunk.js"
