@@ -2,15 +2,42 @@ body {
   margin:40px auto;
   max-width:650px;
   line-height:1.6;
-  font-size:20px;
+  font-size:18px;
   color:rgb(88, 88, 88);
   padding:0 10px;
+  font-family: "Times New Roman", "Arial";
+  background-color: rgb(255, 253, 248);
 }
 
 footer {
-  margin: 60px auto;
+  margin: 40px auto;
 }
 
+
 h1,h2,h3{
-  line-height:1.2
+  position: relative;
+  line-height:1.2;
+  text-align: center;
+  margin: 15px auto;
+}
+
+a {
+  color:rgb(128, 94, 94);
+}
+
+a:hover {
+  color:rgb(168, 99, 99);
+}
+
+.icon-container {
+  display: flex;
+  flex-flow: row wrap;
+  margin: auto;
+  width: 30%;
+  padding-bottom: 20px;
+  justify-content: space-around;
+}
+
+.icon-item {
+  margin: auto;
 }
