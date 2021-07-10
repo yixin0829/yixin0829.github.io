@@ -2,10 +2,10 @@ body {
   margin:40px auto;
   max-width:650px;
   line-height:1.6;
+  font-family: "Times New Roman", "Arial";
   font-size:18px;
   color:rgb(88, 88, 88);
   padding:0 10px;
-  font-family: "Times New Roman", "Arial";
   background-color: rgb(255, 253, 248);
 }
 
@@ -31,8 +31,9 @@ a:hover {
 
 .icon-container {
   display: flex;
-  flex-flow: row wrap;
   margin: auto;
+  /* width: 150px; */
+  min-width: 200px;
   width: 30%;
   padding-bottom: 20px;
   justify-content: space-around;
@@ -40,4 +41,8 @@ a:hover {
 
 .icon-item {
   margin: auto;
+}
+
+.chinese-name {
+  font-family: "FangSong";
 }
