@@ -37,13 +37,13 @@ function App() {
       </div>
 
       <p>Hello!</p>
-      <p>My name is Yixin /ee'shin/ Tian <span className="chinese-name">(田毅鑫)</span>. I play with data and create insights.</p>
+      <p>My name is Yixin /ee'shin/ Tian <span className="chinese-font">(田毅鑫)</span>. I play with data and <i>create</i> insights.</p>
       <p>Right now, I'm working as a Data Analyst Intern
         at <a href="https://www.kijiji.ca/kijijicentral/general/about-us/?utm_source=Kijiji&utm_medium=Footer" target="_blank" rel="noreferrer">Kijiji</a>, an online classifieds
-        site. I dedicate my time in creating, learning things with a interest in people.</p>
-      <p>I've beening studying <a href="https://www.ece.utoronto.ca/" target="_blank" rel="noreferrer">Electrical and Computer Engineering</a> at University of
+        site. I dedicate my time to creating, learning things <i>with a genuine interest in people</i>.</p>
+      <p>I've been studying <a href="https://www.ece.utoronto.ca/" target="_blank" rel="noreferrer">Electrical and Computer Engineering</a> at University of
         Toronto since 2018 and plan to complete my bachelor's degree in
-        2023 with a minor in artificial intelligence and engineering business.</p>
+        2023 with minors in artificial intelligence and engineering business.</p>
       <p>Some of my long-term hobbies include <a href="https://500px.com/p/fredtian0829?view=photos" target="_blank" rel="noreferrer">photography</a>
         , <a href="https://www.notion.so/fa102b35de4a45828c51b5e8f79eb8ac?v=d3792f0ac9204f7cbf873c97c5446937" target="_blank" rel="noreferrer">films</a>, and travelling.
         Currently I'm interested in graph machine learning, web dev, <a href="https://www.strava.com/athletes/85739809" target="_blank" rel="noreferrer">running</a>, wine tasting, and rock climbing.</p>

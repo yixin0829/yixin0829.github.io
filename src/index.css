@@ -2,7 +2,7 @@ body {
   margin:40px auto;
   max-width:650px;
   line-height:1.6;
-  font-family: "Times New Roman", "Arial";
+  font-family: "Times New Roman", "Helvetica", "Arial";
   font-size:18px;
   color:rgb(88, 88, 88);
   padding:0 10px;
@@ -43,6 +43,6 @@ a:hover {
   margin: auto;
 }
 
-.chinese-name {
-  font-family: "FangSong";
+.chinese-font {
+  font-family: "Hiragino Sans GB","Times New Roman","Arial";
 }
