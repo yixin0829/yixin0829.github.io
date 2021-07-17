@@ -18,7 +18,7 @@ h1,h2,h3{
   position: relative;
   line-height:1.2;
   text-align: center;
-  margin: 15px auto;
+  margin: 3px auto;
 }
 
 a {
@@ -45,4 +45,28 @@ a:hover {
 
 .chinese-font {
   font-family: "Hiragino Sans GB","Times New Roman","Arial";
+}
+
+.em {
+  font-size: larger;
+}
+
+.divider
+{
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	height: 2px;
+}
+
+.div-transparent:before
+{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 30%;
+	right: 30%;
+	width: 40%;
+	height: 2px;
+	background-image: linear-gradient(to right, transparent, rgb(88,88,88), transparent);
 }

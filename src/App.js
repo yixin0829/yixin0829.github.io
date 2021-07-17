@@ -27,7 +27,8 @@ const linkClick = (event) => {
 function App() {
   return (
     <div className="App">
-      <h1>YIXIN TIAN</h1>
+      <h1><span className="em">Y</span>IXIN <span className="em">T</span>IAN</h1>
+      <div class="divider div-transparent"></div>
       <div className="icon-container">
         <SocialIcon className="icon-item" url="https://www.linkedin.com/in/yixintian/" style={{ height: 25, width: 25 }} target="_blank" rel="noreferrer"/>
         <SocialIcon className="icon-item" url="https://github.com/yixin0829" style={{ height: 25, width: 25 }} target="_blank" rel="noreferrer"/>
@@ -40,12 +41,12 @@ function App() {
       <p>My name is Yixin /ee'shin/ Tian <span className="chinese-font">(田毅鑫)</span>. I play with data and <i>create</i> insights.</p>
       <p>Right now, I'm working as a Data Analyst Intern
         at <a href="https://www.kijiji.ca/kijijicentral/general/about-us/?utm_source=Kijiji&utm_medium=Footer" target="_blank" rel="noreferrer">Kijiji</a>, an online classifieds
-        site. I dedicate my time to creating, learning things <i>with a genuine interest in people</i>.</p>
+        site. I dedicate my time to creating, learning things with <i>a interest in people</i>.</p>
       <p>I've been studying <a href="https://www.ece.utoronto.ca/" target="_blank" rel="noreferrer">Electrical and Computer Engineering</a> at University of
         Toronto since 2018 and plan to complete my bachelor's degree in
         2023 with minors in artificial intelligence and engineering business.</p>
       <p>Some of my long-term hobbies include <a href="https://500px.com/p/fredtian0829?view=photos" target="_blank" rel="noreferrer">photography</a>
-        , <a href="https://www.notion.so/fa102b35de4a45828c51b5e8f79eb8ac?v=d3792f0ac9204f7cbf873c97c5446937" target="_blank" rel="noreferrer">films</a>, and travelling.
+        , <a href="https://canyon-beast-0ac.notion.site/5658d6ef4a72419f983a55cc8b140cbc?v=1c6ee19d82f347318f748caf8375a893" target="_blank" rel="noreferrer">films</a>, and travelling.
         Currently I'm interested in graph machine learning, web dev, <a href="https://www.strava.com/athletes/85739809" target="_blank" rel="noreferrer">running</a>, wine tasting, and rock climbing.</p>
       <p>Reach out to me on LinkedIn and I'll be more than happy to chat with you and get to know each other.</p>
       <p>Later.</p>
