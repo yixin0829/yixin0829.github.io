@@ -38,7 +38,7 @@ function App() {
       </div>
 
       <p>Hello!</p>
-      <p>My name is Yixin /ee'shin/ Tian <span className="chinese-font">(田毅鑫)</span>. I play with data and <i>create</i> insights.</p>
+      <p>My name is Yixin ("Isshin") Tian <span className="chinese-font">(田毅鑫)</span>. I play with data and <i>create</i> insights.</p>
       <p>I dedicate my time to learning, creating things to inspire others and be inspired at the same time. Try to stay curious and see the world from new perspective everyday.</p>
       <p>I've been studying <a href="https://www.ece.utoronto.ca/" target="_blank" rel="noreferrer">Electrical and Computer Engineering</a> at University of
         Toronto since 2018 and plan to complete my bachelor's degree in
