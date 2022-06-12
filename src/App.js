@@ -39,16 +39,14 @@ function App() {
 
       <p>Hello!</p>
       <p>My name is Yixin /ee'shin/ Tian <span className="chinese-font">(田毅鑫)</span>. I play with data and <i>create</i> insights.</p>
-      <p>Right now, I'm working as a Data Analyst Intern
-        at <a href="https://www.kijiji.ca/kijijicentral/general/about-us/?utm_source=Kijiji&utm_medium=Footer" target="_blank" rel="noreferrer">Kijiji</a>, an online classifieds
-        site. I dedicate my time to creating, learning things with <i>a interest in people</i>.</p>
+      <p>I dedicate my time to learning, creating things to inspire others and be inspired at the same time. Try to stay curious and see the world from new perspective everyday.</p>
       <p>I've been studying <a href="https://www.ece.utoronto.ca/" target="_blank" rel="noreferrer">Electrical and Computer Engineering</a> at University of
         Toronto since 2018 and plan to complete my bachelor's degree in
-        2023 with minors in artificial intelligence and engineering business.</p>
+        2023 with minors in artificial intelligence.</p>
       <p>Some of my long-term hobbies include <a href="https://500px.com/p/fredtian0829?view=photos" target="_blank" rel="noreferrer">photography</a>
         , <a href="https://canyon-beast-0ac.notion.site/5658d6ef4a72419f983a55cc8b140cbc?v=1c6ee19d82f347318f748caf8375a893" target="_blank" rel="noreferrer">films</a>, and travelling.
-        Currently I'm interested in graph machine learning, web dev, <a href="https://www.strava.com/athletes/85739809" target="_blank" rel="noreferrer">running</a>, wine tasting, and rock climbing.</p>
-      <p>Reach out to me on LinkedIn and I'll be more than happy to chat with you and get to know each other.</p>
+        Currently I'm interested in graph machine learning, web dev, <a href="https://www.strava.com/athletes/85739809" target="_blank" rel="noreferrer">running</a>, backpacking, and rock climbing.</p>
+      <p>Reach out to me on LinkedIn and I'll be more than happy to learn from you and share ideas.</p>
       <p>Later.</p>
 
       <footer className="footer"><Emoji symbol="🔨"/> by Yixin</footer>
